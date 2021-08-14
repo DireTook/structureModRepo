@@ -1,0 +1,22 @@
+{
+	"name": "tutorialmod_uniqueid309:example_structures/example_structure",
+	
+	"fallback": "minecraft:empty",
+	
+	"elements": [
+		{
+			"weight": 1 ,
+			"element":
+			{
+			
+				"element_type": "minecraft:single_pool_element",
+			
+				"location": "tutorialmod_uniqueid309:example_structure",
+			
+				"projection": "rigid",
+				
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

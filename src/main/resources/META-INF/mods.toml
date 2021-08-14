@@ -1,0 +1,16 @@
+modLoader="javafml" #mandatory
+loaderVersion="[37,)"
+license="All rights reserved"
+
+[[mods]] #mandatory
+modId="structuremod" #mandatory
+version="1.0" #mandatory
+displayName="Structure Mod" #mandatory
+#logoFile="examplemod.png" #optional
+credits="Thanks for this example mod goes to life and pain" #optional
+authors="DireTook" #optional
+
+description='''
+Hey there
+This is my first structure mod :D
+'''
